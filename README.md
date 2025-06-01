@@ -2,7 +2,7 @@
 
 This repository contains organized Jupyter notebooks demonstrating various machine learning and deep learning algorithms. Each folder represents a specific technique or model.
 
-## 📁 Folders
+## 📁 Files
 
 - **Bayesianclassifier**
 - **Convolutional Neural Network**
